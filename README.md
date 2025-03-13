@@ -1,11 +1,9 @@
 <a name="readme-top"></a>
 
 <div align="center">
-
-<img src="logo.png" alt="logo" width="140" height="auto" style="border-radius:50%"   />
-<br/>
-<h3><b>NEWTORK SCRIPT PROJECT</b>
-
+  <img src="logo.png" alt="logo" width="140" height="auto" style="border-radius:50%" />
+  <br/>
+  <h3><b>NETWORK SCRIPT PROJECT</b></h3>
 </div>
 
 # ✅ TABLE OF CONTENTS
@@ -14,160 +12,121 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
- - [💻 Getting Started](#getting-started)
-   - [Setup](#setup)
-   -  [Prerequisites](#prerequisites)
-   - [Install](#install)
-   - [Usage](#usage)
-   - [Run tests](#run-tests)
-   - [Deployment](#deployment)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run Tests](#run-tests)
+  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🕹️ Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐ Show your Support](#support)
-- [👏 Acknowledgements ](#ackknowledgements)
-- [❓ FAQ ](#faq)
+- [👏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
 - [📃 License](#license)
 
-# 📖 [NETWORK SCRIPT PROJECT]<a name="about-project"></a>
+# 📖 NETWORK SCRIPT PROJECT <a name="about-project"></a>
 
-**[Networ Script Project]** This is a first project in SENA'S   SysAdmin Network Curriculum
+**Network Script Project** is the first project in SENA's SysAdmin Network Curriculum.
 
-## ⚒️ Build With <a name="built-with"></a>
+## ⚒️ Built With <a name="built-with"></a>
 
-<p>
-This Projects was built using:
-HTML, MARKDOWN AND SHELLSCRIPT, GIT, GITHUB
-</p>
+This project was built using:
+- HTML
+- Markdown
+- ShellScript
+- Git
+- GitHub
 
 ### Tech Stack <a name="tech-stack"></a>
 
-<li> HTML </li>
-<li> MARKDOWN </li>
-<li> SHELLSCRIPT </li>
-<li> GIT </li>
-<li> GITHUB </li>
+- **HTML**
+- **Markdown**
+- **ShellScript**
+- **Git**
+- **GitHub**
 
 <details>
-<summary> Client </summary>
-    <ul>
-    <li><a href="
-https://developer.mozilla.org/es/docs/Web/HTML
-">HTML</a></li>    
-    </ul>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://developer.mozilla.org/es/docs/Web/HTML">HTML</a></li>
+  </ul>
 </details>
 
 <details>
-<summary>Markdown</summary>
-<ul>
-<li><a href="
-https://markdown.es/sintaxis-markdown/
-">Markdown</a></li>
-</ul>
+  <summary>Markdown</summary>
+  <ul>
+    <li><a href="https://markdown.es/sintaxis-markdown/">Markdown</a></li>
+  </ul>
 </details>
-
 
 ### Key Features <a name="key-features"></a>
+
+- **Network Scripting**: Automates network tasks using ShellScript.
+- **Documentation**: Comprehensive documentation using Markdown.
+- **Version Control**: Managed with Git and GitHub.
 
 <p align="right"><a href="#readme-top">Back to top</a></p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
+To get a local copy up and running, follow these steps:
 
-To get a local copy up and running follow these steps:
+### Prerequisites
 
-### Prerequsites 
-
-To run this project you need the following tools:
-
-- [VS Code]
-- [Git and GitHub]
-- [ShellScript ]
+To run this project, you need the following tools:
+- [VS Code](https://code.visualstudio.com/)
+- [Git and GitHub](https://github.com/)
+- [ShellScript](https://www.shellscript.sh/)
 
 ### Setup
 
-Clone this respository  to your desired folder:
+1. **Linters**: A linter is a tool that analyzes your source code to flag programming errors, bugs, stylistic errors, and suspicious constructs.
+   - **Why use linters?**
+     - Catch syntax errors efficiently.
+     - Maintain a consistent codebase.
+     - Focus on solving problems instead of cleaning up code.
 
-```sh
-cd NEWTORK-SCRIPT
-git clone 
-https://github.com/alyconr/Network-Shell-Script-.git
+2. **Project Structure**:
+   - Organize the project structure.
+   - Copy `.hintrc.txt` and `.stylelintrc.json` files.
+   - Verify and correct any errors.
 
-```
+3. **Configuration Files**:
+   - Copy and configure `server.js`, `webpack.config.js`, and `.babelrc`.
+   - Install dependencies required by these files.
+
 ### Install
 
-Install This project with:
+Install the project dependencies:
 
-```sh
-    ./networkScript.sh
-```
+```bash
+# Lighthouse
+npm install -g @lhci/cli@0.7.x
 
-### Usage 
+# Webhint
+npm install --save-dev hint@7.x
 
-To run the project, execute the following command:
+# Stylelint
+npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
 
-```sh
-./networkScript.sh
-```
+# ESLint
+npm install --save-dev eslint@7.x eslint-config-airbnb-base@14.x eslint-plugin-import@2.x babel-eslint@10.x
 
-### Run Test
+# Webpack
+npm init -y
+npm install webpack webpack-cli --save-dev
 
-To run test, run the following command or endpoint:
+# Webpack CSS Loader
+npm install --save-dev style-loader css-loader
 
-```sh
-python -m unittest test_module.TestClass
-```
+# Webpack HTML Loader
+npm install --save-dev html-loader
 
+# Webpack HTML Plugin
+npm install --save-dev html-webpack-plugin
 
-### Deployment
-
-Deploy using your local enviroment
-
-<p align="right"><a href="#readme-top">Back to top</a></p>
-
-## 👥 Authors <a name="authors"></a>
-
-Jeysson Contreras
-
-🧑🏻‍💻 **Author 1**
-
- - GitHub: [@alyconr](
-https://github.com/alyconr
-)
- - LinkedIn: [LinkedIn](
-https://www.linkedin.com/in/jeysson-aly-contreras
-)
-
-
-## 🕹️ Future Features <a name="future-features"></a>
-
-- [ ] **[Ping]**
-- [ ] **[Nslookup]**
-- [ ] **[BandWitdth Test]**
-
-
-## 🤝 Contributing <a name="contributing"></a>
-
-
-Contributions, issues, and  feature requests are welcome!
-
-Feel free tp check the [issues page](
-https://github.com/alyconr/Network-Shell-Script-/issues
-)
-
-
-## ⭐ Show your Support
-
-Wrrite a message to encourage readers to support your project
-
-If you like this project please give one start
-
-## 👏 Acknowledgements <a name="acknowledgements"></a>
-
-I would like to thank my learning teammates  and Sena Instructor
-
-## 📃 License <a name="license"></a>
-
-This Project is [MIT](./LICENSE.md) licensed
-
-<p align="right"><a href="#readme-top">Back to top</a></p> 
+# Webpack Dev Server
+npm install --save-dev webpack-dev-server
