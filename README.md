@@ -6,7 +6,7 @@
   <h3><b>PROYECTO DE SCRIPTS DE ANALISIS Y DESARROLLO DE SOFTWARE</b></h3>
 </div>
 
-# 📖 PROYECTO DE SCRIPTS DE RED <a name="about-project"></a>
+# 📖 PROYECTO DE TODO-LIST<a name="about-project"></a>
 
 **Proyecto de Scripts de Red** es el primer proyecto del programa de analisis y desarrollo de Software del SENA. Este proyecto automatiza tareas y sirve como base para aprender prácticas esenciales de desarrollo.
 
@@ -37,7 +37,7 @@
 </details>
 
 ### Características Clave <a name="key-features"></a>
-- 🛠️ **Automatización de Red**: Scripts en Shell para tareas de diagnóstico
+- 🛠️ **Automatización de Red**: Scripts en linter para validación de codigo
 - 📚 **Documentación Detallada**: Guías técnicas en Markdown
 - 🔄 **Control de Versiones**: Flujo de trabajo con Git/GitHub
 - ⚡ **Optimización**: Configuración de Webpack para eficiencia
