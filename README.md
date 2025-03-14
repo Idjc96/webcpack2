@@ -6,27 +6,6 @@
   <h3><b>NETWORK SCRIPT PROJECT</b></h3>
 </div>
 
-# ✅ TABLE OF CONTENTS
-- [📖 About the Project](#about-project)
-  - [⚒️ Build With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run Tests](#run-tests)
-  - [Deployment](#deployment)
-- [👥 Authors](#authors)
-- [🕹️ Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐ Show your Support](#support)
-- [👏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
-- [📃 License](#license)
-
 # 📖 NETWORK SCRIPT PROJECT <a name="about-project"></a>
 
 **Network Script Project** is the first project in SENA's SysAdmin Network Curriculum.
@@ -35,16 +14,17 @@
 
 This project was built using:
 - HTML
-- Markdown
-- ShellScript
+- JavaScript
+- CSS
 - Git
 - GitHub
+- Webpack
 
 ### Tech Stack <a name="tech-stack"></a>
 
 - **HTML**
-- **Markdown**
-- **ShellScript**
+- **Javascript**
+- **CSS**
 - **Git**
 - **GitHub**
 
@@ -79,7 +59,6 @@ To get a local copy up and running, follow these steps:
 To run this project, you need the following tools:
 - [VS Code](https://code.visualstudio.com/)
 - [Git and GitHub](https://github.com/)
-- [ShellScript](https://www.shellscript.sh/)
 
 ### Setup
 
