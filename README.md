@@ -3,12 +3,12 @@
 <div align="center">
   <img src="logo.png" alt="Logo del proyecto" width="140" height="auto" style="border-radius:50%" />
   <br/>
-  <h3><b>PROYECTO DE SCRIPTS DE RED</b></h3>
+  <h3><b>PROYECTO DE SCRIPTS DE ANALISIS Y DESARROLLO DE SOFTWARE</b></h3>
 </div>
 
 # 📖 PROYECTO DE SCRIPTS DE RED <a name="about-project"></a>
 
-**Proyecto de Scripts de Red** es el primer proyecto del currículo de Administración de Redes del SENA. Este proyecto automatiza tareas y sirve como base para aprender prácticas esenciales de desarrollo.
+**Proyecto de Scripts de Red** es el primer proyecto del programa de analisis y desarrollo de Software del SENA. Este proyecto automatiza tareas y sirve como base para aprender prácticas esenciales de desarrollo.
 
 ## ⚙️ Construido con <a name="built-with"></a>
 
