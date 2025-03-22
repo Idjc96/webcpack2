@@ -4,7 +4,7 @@
 
 <img src="logo.png" alt="logo" width="140" height="auto" style="border-radius:50%"   />
 <br/>
-<h3><b>NEWTORK SCRIPT PROJECT</b>
+<h3><b>WEBPACK PROJECT</b>
 
 </div>
 
@@ -25,149 +25,149 @@
 - [🕹️ Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐ Show your Support](#support)
-- [👏 Acknowledgements ](#ackknowledgements)
+- [👏 Acknowledgements ](#acknowledgements)
 - [❓ FAQ ](#faq)
 - [📃 License](#license)
 
-# 📖 [NETWORK SCRIPT PROJECT]<a name="about-project"></a>
+# 📖 [WEBPACK PROJECT]<a name="about-project"></a>
 
-**[Networ Script Project]** This is a first project in SENA'S   SysAdmin Network Curriculum
+**[Webpack Project]** A modern JavaScript project using Webpack for bundling and optimization, with Express server for development.
 
 ## ⚒️ Build With <a name="built-with"></a>
 
 <p>
-This Projects was built using:
-HTML, MARKDOWN AND SHELLSCRIPT, GIT, GITHUB
+This project was built using:
+JavaScript, Webpack, Express, HTML, CSS
 </p>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-<li> HTML </li>
-<li> MARKDOWN </li>
-<li> SHELLSCRIPT </li>
-<li> GIT </li>
-<li> GITHUB </li>
+<li> JavaScript </li>
+<li> Webpack 5 </li>
+<li> Express.js </li>
+<li> HTML5 </li>
+<li> CSS3 </li>
 
 <details>
 <summary> Client </summary>
     <ul>
-    <li><a href="
-https://developer.mozilla.org/es/docs/Web/HTML
-">HTML</a></li>    
+    <li>HTML5</li>
+    <li>CSS3</li>
+    <li>JavaScript</li>
+    <li>Webpack</li>
     </ul>
 </details>
 
 <details>
-<summary>Markdown</summary>
+<summary>Server</summary>
 <ul>
-<li><a href="
-https://markdown.es/sintaxis-markdown/
-">Markdown</a></li>
+<li>Express.js</li>
 </ul>
 </details>
 
 
 ### Key Features <a name="key-features"></a>
 
+- Modern JavaScript bundling with Webpack 5
+- Development server with Express
+- CSS and HTML loaders configured
+- Code linting with ESLint and Stylelint
+- Production-ready build configuration
+
 <p align="right"><a href="#readme-top">Back to top</a></p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-
 To get a local copy up and running follow these steps:
 
-### Prerequsites 
+### Prerequisites 
 
-To run this project you need the following tools:
+To run this project you need:
 
-- [VS Code]
-- [Git and GitHub]
-- [ShellScript ]
+- Node.js installed
+- npm (Node Package Manager)
+- A modern web browser
 
 ### Setup
 
-Clone this respository  to your desired folder:
+Clone this repository to your desired folder:
 
 ```sh
-cd NEWTORK-SCRIPT
-git clone 
-https://github.com/alyconr/Network-Shell-Script-.git
-
+cd your-folder
+git clone <repository-url>
 ```
+
 ### Install
 
-Install This project with:
+Install project dependencies with:
 
 ```sh
-    ./networkScript.sh
+npm install
 ```
 
 ### Usage 
 
-To run the project, execute the following command:
+To run the development server:
 
 ```sh
-./networkScript.sh
+npm start
 ```
 
-### Run Test
-
-To run test, run the following command or endpoint:
+To create a production build:
 
 ```sh
-python -m unittest test_module.TestClass
+npm run build
 ```
 
+### Run Tests
+
+To run linters:
+
+```sh
+npm run eslint
+npm run stylelint
+```
 
 ### Deployment
 
-Deploy using your local enviroment
+Build the project for production:
+
+```sh
+npm run build
+```
+The built files will be in the `dist` directory.
 
 <p align="right"><a href="#readme-top">Back to top</a></p>
 
 ## 👥 Authors <a name="authors"></a>
 
-Jeysson Contreras
+👤 **Author**
 
-🧑🏻‍💻 **Author 1**
-
- - GitHub: [@alyconr](
-https://github.com/alyconr
-)
- - LinkedIn: [LinkedIn](
-https://www.linkedin.com/in/jeysson-aly-contreras
-)
-
+- GitHub: [@yourgithub](https://github.com/yourgithub)
 
 ## 🕹️ Future Features <a name="future-features"></a>
 
-- [ ] **[Ping]**
-- [ ] **[Nslookup]**
-- [ ] **[BandWitdth Test]**
-
+- [ ] **Hot Module Replacement**
+- [ ] **Code Splitting**
+- [ ] **Progressive Web App Support**
 
 ## 🤝 Contributing <a name="contributing"></a>
 
+Contributions, issues, and feature requests are welcome!
 
-Contributions, issues, and  feature requests are welcome!
-
-Feel free tp check the [issues page](
-https://github.com/alyconr/Network-Shell-Script-/issues
-)
-
+Feel free to check the [issues page](https://github.com/yourusername/yourrepository/issues)
 
 ## ⭐ Show your Support
 
-Wrrite a message to encourage readers to support your project
-
-If you like this project please give one start
+If you like this project, please give it a ⭐️!
 
 ## 👏 Acknowledgements <a name="acknowledgements"></a>
 
-I would like to thank my learning teammates  and Sena Instructor
+- Thanks to the Webpack team for the excellent bundler
+- All contributors and reviewers
 
 ## 📃 License <a name="license"></a>
 
-This Project is [MIT](./LICENSE.md) licensed
+This project is [MIT](./LICENSE.md) licensed
 
 <p align="right"><a href="#readme-top">Back to top</a></p> 
